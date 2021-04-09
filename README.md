@@ -1,6 +1,7 @@
-# tools-termux
-tools sederhana  untuk pemulah 
+# tools - temux
 <img src="http://ratia.co.za/NETtools.png">
+
+Untuk pemula
 
 BISA DI REKODE  SEPUAS  NYA 
 
