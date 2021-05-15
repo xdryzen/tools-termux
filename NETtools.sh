@@ -10,7 +10,7 @@ echo -e '\e[32m           444444444 44444444444'
 echo -e '\e[35m      444444444444 44444444444444'
 echo -e '\e[1;31m  4444444444444     4444444444\e[0m'
 echo '----------------------------------------------------'
-echo -e '\e[32mathor : muhamad.izhar'
+echo -e '\e[32mauthour: muhamad.izhar'
 echo -e 'github : https://github.com/anonimoud\e[0m'
 #menu function
 echo '----------------------'
